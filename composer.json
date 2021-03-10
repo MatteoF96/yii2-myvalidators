@@ -1,0 +1,19 @@
+{
+    "name": "matteo/yii2-myvalidators",
+    "description": "My first extension with validators for Yii (only to learn)",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "MatteoF96",
+            "email": "matteo6.frigerio@mail.polimi.it"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yetopen\\validators\\": "src"
+        }
+    }
+}
