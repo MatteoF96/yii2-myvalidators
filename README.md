@@ -17,6 +17,4 @@ Dummy validators (only to learn).
 }
 ```
 
-- composer update
-
-- composer install
+- composer update matteo/yii2-myvalidators
